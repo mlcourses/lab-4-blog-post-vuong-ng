@@ -137,6 +137,12 @@ Now, let's see if your code and your circuit work well. To avoid noise during th
 
 - Once, we have our testing set up. Start keep our objetc close to the sensor and then move the object slowly farther. We should hear the sound changing from low to high quite smoothly. We can make the sound changes more smoothly by changing the `delay` parameter in our code so that there will less delayed time between each reading. 
 
+[This is how the program and the circuit should work](https://drive.google.com/file/d/1z2CD9IMTs7_TmeRBwPw5kUn49wr6djpJ/view?t%253D9)
+
+- In this lab, we also change the supply from our laptop to a battery. We see that after connected with the laptop (or the code), when connected with the battery, the program still work as it does when connected with the laptop.
+
+[This is when we change the laptop to the battery](https://drive.google.com/drive/folders/1qT6_cgMYxM4oddeN7Ivh13Xp4cR28Ogr)
+
 ## Conclusion
 Sensors and Actuators are essential components of any hardware design since they determine how a machine interacts and responses to external factors from the environment. This design challenge gave us a glimpse of how to leverage these devices, as well as how useful they are.
 
